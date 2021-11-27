@@ -20,9 +20,9 @@ const Ron = new Person(
 );
 console.log(Ron);
 
-const Robert = new Person(
-  "Robert",
-  "Williams",
-  "Celeste Slater606-3727 Ullamcorper. Street Roseville"
+const Manvendra = new Person(
+  "Manvendra",
+  "Singh",
+  "766,Mahaveer Nagar 1st, Kota, Rajasthan"
 );
-console.log(Robert);
+console.log(Manvendra);
