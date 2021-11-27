@@ -5,13 +5,12 @@ function Person(fname, lname, oaddress) {
   this.lastName = lname;
   this.officeAddress = oaddress;
 }
-
-const John = new Person(
-  "John",
-  "Smith",
-  "Cecilia Chapman 711-2880 Nulla Mankato Mississippi"
+const Manvendra = new Person(
+  "Manvendra",
+  "Singh",
+  "766,Mahaveer Nagar 1st, Kota, Rajasthan"
 );
-console.log(John);
+console.log(Manvendra);
 
 const Ron = new Person(
   "Ron",
@@ -20,9 +19,9 @@ const Ron = new Person(
 );
 console.log(Ron);
 
-const Manvendra = new Person(
-  "Manvendra",
-  "Singh",
-  "766,Mahaveer Nagar 1st, Kota, Rajasthan"
+const John = new Person(
+  "John",
+  "Smith",
+  "Cecilia Chapman 711-2880 Nulla Mankato Mississippi"
 );
-console.log(Manvendra);
+console.log(John);
